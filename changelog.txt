@@ -1,0 +1,4 @@
+@Antonio Pinna
+
+v1.0.0
+Base logic implementation
